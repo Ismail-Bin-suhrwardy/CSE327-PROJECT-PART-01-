@@ -16,8 +16,8 @@ Main features	:
 - Time barrier level
 - Able to break multiple brick at a shot
 - Background music while playing 
-- Easy controllling system (keyboard)
-
+- Easy controlling system (keyboard)
+- Will try to add mode system
 
 
 Operating system: Any windows operating system
