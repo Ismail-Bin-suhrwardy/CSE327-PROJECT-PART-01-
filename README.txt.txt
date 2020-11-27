@@ -10,16 +10,14 @@ Type of app	: Entertainment system
 
 Main features	:
 
+- User login System
 - Different type of brick color 
 - view score on screen
-- Offline game 
-- No network problem
-- Limited level
+- Time barrier level
 - Able to break multiple brick at a shot
-- Have background color
-- Free to play 
+- Background music while playing 
 - Easy controllling system (keyboard)
-- Suitable for all ages
+
 
 
 Operating system: Any windows operating system
